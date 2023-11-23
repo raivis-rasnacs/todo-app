@@ -1,0 +1,14 @@
+#todo-list {
+  padding: 0px;
+}
+
+#todo-list li {
+  border-bottom: 1px solid silver;
+  list-style-type: none;
+  margin: 5px 0px 5px 0px;
+  padding: 5px;
+}
+
+#todo-list .btn {
+  margin-right: 10px;
+}
